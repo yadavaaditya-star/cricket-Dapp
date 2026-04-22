@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box; /* Makes width/padding easier to manage */
+  margin: 0;              /* Remove default margins */
+  padding: 0;             /* Remove default padding */
+}
+
+/* 3. Optional: set default font and body styles */
+body {
+  font-family: 'Inter', sans-serif; /* or  preferred font */
+  line-height: 1.5;
+  background-color: #fff;           /* default background */
+  color: #111;                       /* default text color */
+}
