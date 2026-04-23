@@ -18,7 +18,7 @@ Before setting up the project, ensure the following are installed on your system
 Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/sneha-at-hub/CRICKET-LIVE-SCORE.git
+git clone https://github.com/yadavaaditya-star/cricket-Dapp.git
 ```
 
 ### 2. Navigate to Project Directory
